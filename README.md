@@ -1,6 +1,6 @@
-# poolpartycoin
-ERC-20 coin for pool partying.
+# Pool Party Coin
+Decentralized, trustless, cryptographically secure, ERC-20 based pool partying. 
 
-No unit tests, security audits, or governance structure b/c __yolo__.
+Uses eth-brownie's(https://github.com/eth-brownie/brownie) ERC-20 template with some modifications for pool parying.
 
-Main dev dependency is the python eth-brownie framework.
+No unit tests, security audits, or governance structure :/
